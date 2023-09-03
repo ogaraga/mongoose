@@ -1,0 +1,26 @@
+{
+  "name": "checkpoint-mongoose",
+  "version": "1.0.0",
+  "description": "This is a checkpoint(exercises) being carried out at the end of each superskill at gomycode institute",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ogaraga"
+  },
+  "keywords": [
+    "checkpoint",
+    "mongoose",
+    "ogaraga"
+  ],
+  "author": "RAYMOND OGARAGA",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongodb": "^6.0.0",
+    "mongoose": "^7.5.0",
+    "nodemon": "^3.0.1"
+  }
+}
